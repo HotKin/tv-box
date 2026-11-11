@@ -456,6 +456,12 @@
       "type": 1
     },
     {
+      "key":"src_danaizi",
+      "name":"大奶子",
+      "api":"https://apidanaizi.com/api.php/provide/vod/",
+      "type": 1
+    },
+    {
       "key": "src_ckbh1",
       "name": "百货资源",
       "api": "https://ckbh1.xyz/api.php/provide/vod/",
